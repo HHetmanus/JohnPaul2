@@ -5,7 +5,7 @@ const cztery = document.getelementByID("cztery");
 const piec = document.getelementByID("piec");
 
 
-dwa.style.display= "none";
-trzy.style.display= "none";
-cztery.style.display= "none";
-piec.style.display= "none";
+dwa.style.visibility= "hidden";
+trzy.style.visibility= "hidden";
+cztery.style.visibility= "hidden";
+piec.style.visibility= "hidden";
