@@ -2,7 +2,7 @@ let tekstJeden = document.getElementById("jeden");
 let tekstDwa = document.getElementById("dwa");
 let tekstTrzy = document.getElementById("trzy");
 let tekstCztery = document.getElementById("cztery");
-let tesktPiec = document.getElementById("piec");
+let tekstPiec = document.getElementById("piec");
 
 
 tekstDwa.hidden = true;
