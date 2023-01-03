@@ -89,8 +89,13 @@ ul li {
 #back a {
   padding: 8px 16px;
 }
-.column {
+#column {
   float: left;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 a { 
