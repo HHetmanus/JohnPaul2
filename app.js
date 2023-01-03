@@ -5,7 +5,8 @@ const tekstCztery = document.getElementById("cztery");
 const tesktPiec = document.getElementById("piec");
 
 
-dwa.style.visibility= "hidden";
-trzy.style.visibility= "hidden";
-cztery.style.visibility= "hidden";
-piec.style.visibility= "hidden";
+tekstDwa.hidden = true;
+tekstTrzy.hidden = true;
+tekstCztery.hidden = true;
+tekstPiec.hidden = true;
+
