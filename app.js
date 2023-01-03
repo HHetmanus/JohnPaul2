@@ -1,8 +1,8 @@
 let tekstJeden = document.getElementById("jeden");
-const tekstDwa = document.getElementById("dwa");
-const tekstTrzy = document.getElementById("trzy");
-const tekstCztery = document.getElementById("cztery");
-const tesktPiec = document.getElementById("piec");
+let tekstDwa = document.getElementById("dwa");
+let tekstTrzy = document.getElementById("trzy");
+let tekstCztery = document.getElementById("cztery");
+let tesktPiec = document.getElementById("piec");
 
 
 tekstDwa.hidden = true;
