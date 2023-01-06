@@ -84,5 +84,10 @@ ul li {
   .back a {
     padding: 10px;
   }
+  
+  #buttonText {
+    width: 20%;
+    margin: auto;
+  }
  
 
