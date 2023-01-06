@@ -80,5 +80,9 @@ ul li {
 
 .round {
   border-radius: 50%;
+  
+  .back a {
+    padding: 10px;
+  }
  
 
