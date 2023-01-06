@@ -85,8 +85,8 @@ ul li {
     padding: 10px;
   }
   
-  #column {
-    width: 60%;
+  #column p{
+    width: 80%;
     margin: auto;
   }
   
