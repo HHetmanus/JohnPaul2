@@ -71,15 +71,12 @@ ul li {
 .flex-container {
   display: flex;
   justify-content: space-around;
+  align-items: center;
   width: 80%;
   margin: auto;
 }
 
-.flex-container #column p{
-  display: flex;
-  align-items: center;
-  
-}
+
 
 #column p {
   font-style: italic;
