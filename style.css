@@ -110,7 +110,7 @@ ul li {
 }
 
 .button:hover {
-      background-color: #818589;
+      background-color: #36454F;
       color: white;
       transition: 0.7s;
       cursor: pointer;
