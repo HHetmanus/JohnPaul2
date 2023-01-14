@@ -68,6 +68,14 @@ ul li {
     
 }
 
+#quotes {
+  
+    width: 80%;
+    margin: auto;
+    text-align: center;
+
+}
+
 .flex-container {
   display: flex;
   justify-content: space-around;
