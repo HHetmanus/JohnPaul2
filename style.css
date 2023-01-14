@@ -87,13 +87,17 @@ ul li {
   padding-bottom: 75px;
 }
 
+#column {
+  box-shadow: 5px 10px 10px #888888;
+}
+
 
 
 #column p {
   font-style: italic;
   font-size: 18px;
   font-weight: 500;
-  box-shadow: 5px 10px 10px #888888:
+  box-shadow: 5px 10px 10px #888888;
   
 }
 
