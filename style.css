@@ -110,7 +110,7 @@ ul li {
 }
 
 .button:hover {
-      background-color: black;
+      background-color: #818589;
       color: white;
       transition: 0.7s;
   }
