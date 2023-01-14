@@ -68,30 +68,6 @@ ul li {
     
 }
 
-.previous {
-  background-color: #f1f1f1;
-  color: black;
-}
 
-.next {
-  background-color: #04AA6D;
-  color: white;
-}
-
-.round {
-  border-radius: 50%;
-  
-  .back a {
-    padding: 10px;
-  }
-  
-  #column p{
-   margin: auto;
-   width: 60%;
-   text-align: center;
-   
-  }
-  
-  
  
 
