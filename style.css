@@ -75,7 +75,7 @@ ul li {
   margin: auto;
 }
 
-.flex-container #column {
+.flex-container #column p{
   display: flex;
   align-items: center;
   
