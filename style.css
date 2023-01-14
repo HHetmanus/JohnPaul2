@@ -71,7 +71,7 @@ ul li {
 #quotes {
     font-size: 20px;
     font-weight: 600;
-    padding: 20px 0px;
+    padding: 20px 0px 40px 0px;
     width: 80%;
     margin: auto;
     text-align: center;
@@ -92,6 +92,10 @@ ul li {
   font-style: italic;
   font-size: 18px;
   font-weight: 500;
+  
+}
+
+.button {
   
 }
  
