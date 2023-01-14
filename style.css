@@ -85,9 +85,10 @@ ul li {
     padding: 10px;
   }
   
-  #column {
+  #column p{
    margin: auto;
    width: 60%;
+   text-align: center;
    
   }
   
