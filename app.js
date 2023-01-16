@@ -42,6 +42,9 @@ forwardOne.onclick = function(){
    forwardOne.hidden = true;
    tekstDwa.hidden = false;
    tekstJeden.hidden = true;
+   tekstTrzy.hidden = true;
+   tekstCztery.hidden = true;
+   tekstPiec.hidden = true;
 }
 
 forwardTwo.onclick = function(){
@@ -49,6 +52,9 @@ forwardTwo.onclick = function(){
    forwardTwo.hidden = true;
    tekstTrzy.hidden = false;
    tekstDwa.hidden = true;
+   tekstCztery.hidden = true;
+   tekstPiec.hidden = true;
+   tekstJeden.hidden = true;
 }
 
 forwardThree.onclick = function(){
@@ -56,6 +62,9 @@ forwardThree.onclick = function(){
    forwardThree.hidden = true;
    tekstCztery.hidden = false;
    tekstTrzy.hidden = true;
+   tekstPiec.hidden = true;
+   tekstJeden.hidden = true;
+   tekstDwa.hidden = true;
 }
 
 forwardFour.onclick = function(){
@@ -63,6 +72,9 @@ forwardFour.onclick = function(){
    forwardFour.hidden = true;
    tekstPiec.hidden = false;
    tekstCztery.hidden = true;
+   tekstJeden.hidden = true;
+   tekstDwa.hidden = true;
+   tekstTrzy.hidden = true;
 }
 
 
@@ -72,6 +84,9 @@ forwardFive.onclick = function(){
    forwardFive.hidden = true;
    tekstJeden.hidden = false;
    tekstPiec.hidden = true;
+   tekstDwa.hidden = true;
+   tekstTrzy.hidden = true;
+   tekstCztery.hidden = true;
 }
 
 backwardOne.onclick = function(){
