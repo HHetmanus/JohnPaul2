@@ -103,13 +103,13 @@ ul li {
   
 }
 
-.fas {
+i .fas {
   
   box-shadow: 6px 6px 5px #888888;
   
 }
 
-.fas:hover {
+i .fas:hover {
       
       cursor: pointer;
   }
