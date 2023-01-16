@@ -148,7 +148,7 @@ button {
 
 #footer {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   background-color: #36454f;
   color: white;
 }
