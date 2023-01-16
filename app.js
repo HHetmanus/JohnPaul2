@@ -65,6 +65,8 @@ forwardFour.onclick = function(){
    tekstCztery.hidden = true;
 }
 
+
+
 forwardFive.onclick = function(){
    forwardOne.hidden = false;
    forwardFive.hidden = true;
@@ -72,4 +74,12 @@ forwardFive.onclick = function(){
    tekstPiec.hidden = true;
 }
 
-
+backwardOne.onclick = finction(){
+   backwardTwo.hidden = false;
+   backwardOne.hidden = true;
+   tekstPiec.hidden = false;
+   tekstJeden.hidden = true;
+   
+}
+   
+}
