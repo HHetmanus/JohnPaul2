@@ -81,5 +81,13 @@ backwardOne.onclick = function(){
    tekstJeden.hidden = true;
    
 }
+
+backwardTwo.onclick = function(){
+   backwardThree.hidden = false;
+   backwardTwo.hidden = true;
+   tekstCztery.hidden = false;
+   tekstPiec.hidden = true;
+   
+}
    
 
