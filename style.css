@@ -96,6 +96,7 @@ ul li {
 
 #column p {
   font-style: italic;
+  text-align: center;
   font-size: 18px;
   font-weight: 500;
   padding: 10px 30px 20px 15px;
