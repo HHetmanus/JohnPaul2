@@ -28,6 +28,11 @@ nav {
     */
 }
 
+#nav {
+  display: flex;
+  align-items: center;
+}
+
 header img {
    float: right;
     
