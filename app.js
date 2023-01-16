@@ -25,6 +25,7 @@ tekstTrzy.hidden = true;
 tekstCztery.hidden = true;
 tekstPiec.hidden = true;
 
+forwardOne.hidden = true;
 forwardTwo.hidden = true;
 forwardThree.hidden = true;
 forwardFour.hidden = true;
