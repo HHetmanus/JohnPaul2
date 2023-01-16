@@ -26,7 +26,7 @@ tekstCztery.hidden = true;
 tekstPiec.hidden = true;
 
 forwardOne.hidden = true;
-forwardTwo.hidden = true;
+/*forwardTwo.hidden = true;
 forwardThree.hidden = true;
 forwardFour.hidden = true;
 forwardFive.hidden = true;
@@ -35,6 +35,6 @@ backwardTwo.hidden = true;
 backwardThree.hidden = true;
 backwardFour.hidden = true;
 backwardFive.hidden = true;
-
+*/
 
 
