@@ -4,7 +4,7 @@ let tekstTrzy = document.getElementById("trzy");
 let tekstCztery = document.getElementById("cztery");
 let tekstPiec = document.getElementById("piec");
 
-let forwardOne = document.getElementByClassName("fas fa-backward fa-xl");
+let forwardOne = document.getElementById("for1");
 let forwardTwo = document.getElementById("for2");
 let forwardThree = document.getElementById("for3");
 let forwardFour = document.getElementById("for4");
