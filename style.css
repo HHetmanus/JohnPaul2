@@ -4,7 +4,7 @@ header {
   top:0; 
   background-color: #ff0000; 
   width: 100%;
-  max-height: 95px;
+  max-height: 100px;
   margin: auto;
  
 }
@@ -41,7 +41,7 @@ header img {
 }
 
 .hr {
-  margin-top: 120px; 
+  margin-top: 110px; 
 }
 
 #main {
