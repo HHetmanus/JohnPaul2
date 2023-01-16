@@ -130,7 +130,7 @@ ul li {
 
 .fas {
   
-  box-shadow: 6px 6px 5px #888888;
+  box-shadow: 10px 10px 5px #888888;
   
 }
 
@@ -138,14 +138,4 @@ ul li {
       
       cursor: pointer;
   }
-/*
-.fa-forward {
-  box-shadow: 6px 6px 5px #888888;
-}
-
-.fa-forward:hover {
-   cursor: pointer;
-}
- 
-*/
 
