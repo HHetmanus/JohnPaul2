@@ -105,5 +105,13 @@ backwardFour.onclick = function(){
    tekstTrzy.hidden = true;
    
 }
+
+backwardFive.onclick = function(){
+   backwardOne.hidden = false;
+   backwardFive.hidden = true;
+   tekstJeden.hidden = false;
+   tekstDwa.hidden = true;
+   
+}
    
 
