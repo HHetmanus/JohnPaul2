@@ -93,7 +93,9 @@ ul li {
     text-decoration: none;
     
 }
-
+ul a {
+ text-decoration: none; 
+}
 #quotes {
     font-size: 20px;
     font-weight: 600;
