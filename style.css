@@ -107,6 +107,7 @@ ul li {
   border-radius: 8px;
   border: none;
   box-shadow: 6px 6px 5px #888888;
+  font-size: 18px;
 }
 
 .button:hover {
