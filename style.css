@@ -106,11 +106,10 @@ ul li {
 .fas {
   
   box-shadow: 6px 6px 5px #888888;
-  font-size: 17px;
   
 }
 
-.button:hover {
+.fas:hover {
       
       cursor: pointer;
   }
