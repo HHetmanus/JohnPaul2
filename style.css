@@ -40,10 +40,14 @@ header img {
     
 }
 
+.hr {
+  margin-top: 100px; 
+}
+
 #main {
     width: 90%;
     margin: auto;
-    margin-top: 85px;
+    margin-top: 110px;
     background-color: FDFCF6;
 }
 
