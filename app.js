@@ -74,7 +74,7 @@ forwardFive.onclick = function(){
    tekstPiec.hidden = true;
 }
 
-backwardOne.onclick = finction(){
+backwardOne.onclick = function(){
    backwardTwo.hidden = false;
    backwardOne.hidden = true;
    tekstPiec.hidden = false;
