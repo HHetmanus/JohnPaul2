@@ -65,4 +65,11 @@ forwardFour.onclick = function(){
    tekstCztery.hidden = true;
 }
 
+forwardFive.onclick = function(){
+   forwardOne.hidden = false;
+   forwardFive.hidden = true;
+   tekstJeden.hidden = false;
+   tekstPiec.hidden = true;
+}
+
 
