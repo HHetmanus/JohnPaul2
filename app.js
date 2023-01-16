@@ -89,5 +89,21 @@ backwardTwo.onclick = function(){
    tekstPiec.hidden = true;
    
 }
+
+backwardThree.onclick = function(){
+   backwardFour.hidden = false;
+   backwardThree.hidden = true;
+   tekstTrzy.hidden = false;
+   tekstCztery.hidden = true;
+   
+}
+
+backwardFour.onclick = function(){
+   backwardFive.hidden = false;
+   backwardFour.hidden = true;
+   tekstDwa.hidden = false;
+   tekstTrzy.hidden = true;
+   
+}
    
 
