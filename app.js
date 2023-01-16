@@ -37,4 +37,9 @@ backwardFour.hidden = true;
 backwardFive.hidden = true;
 
 
+forwardOne.onclick = function(){
+   forwardTwo.hidden = false;
+  tekstDwa.hidden = false;
+}
+
 
