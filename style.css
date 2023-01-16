@@ -1,6 +1,11 @@
+header {
+  background-color: #ff0000; 
+}
+
 nav a{
   float: left;
-  color: #333;
+  /*color: #333;*/
+  color: white;
   text-align: center;
   padding: 0.9rem 1rem;
   text-decoration: none;
