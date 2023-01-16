@@ -51,4 +51,18 @@ forwardTwo.onclick = function(){
    tekstDwa.hidden = true;
 }
 
+forwardThree.onclick = function(){
+   forwardFour.hidden = false;
+   forwardThree.hidden = true;
+   tekstCztery.hidden = false;
+   tekstTrzy.hidden = true;
+}
+
+forwardFour.onclick = function(){
+   forwardFive.hidden = false;
+   forwardFour.hidden = true;
+   tekstPiec.hidden = false;
+   tekstCztery.hidden = true;
+}
+
 
