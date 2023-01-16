@@ -13,17 +13,5 @@ tekstTrzy.hidden = true;
 tekstCztery.hidden = true;
 tekstPiec.hidden = true;
 
-forward.onclick = function(){
-   tesktJeden.hidden = true;
-   tekstDwa.hidden = false;
-  
-};
-
-backward.onclick = function(){
-    tesktJeden.hidden = false;
-    tekstDwa.hidden = true;
-  
-}
-
 
 
