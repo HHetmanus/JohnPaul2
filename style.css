@@ -149,6 +149,7 @@ button {
 #footer {
   display: flex;
   justify-content: center;
+  gap: 10px;
   background-color: #36454f;
   color: white;
 }
