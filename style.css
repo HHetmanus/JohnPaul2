@@ -149,8 +149,16 @@ button {
 #footer {
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 20px;
   background-color: #36454f;
   color: white;
+}
+
+#footer p {
+  cursor: pointer; 
+}
+
+.line {
+  border-right: 1px solid white;
 }
 
