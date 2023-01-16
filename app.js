@@ -79,6 +79,11 @@ backwardOne.onclick = function(){
    backwardOne.hidden = true;
    tekstPiec.hidden = false;
    tekstJeden.hidden = true;
+   tekstDwa.hidden = true;
+   tekstTrzy.hidden = true;
+   tekstCztery.hidden = true;
+   
+   
    
 }
 
@@ -87,6 +92,10 @@ backwardTwo.onclick = function(){
    backwardTwo.hidden = true;
    tekstCztery.hidden = false;
    tekstPiec.hidden = true;
+   tekstJeden.hidden = true;
+   tekstDwa.hidden = true;
+   tekstTrzy.hidden = true;
+   
    
 }
 
@@ -95,6 +104,9 @@ backwardThree.onclick = function(){
    backwardThree.hidden = true;
    tekstTrzy.hidden = false;
    tekstCztery.hidden = true;
+   tekstJeden.hidden = true;
+   tekstDwa.hidden = true;
+   tekstPiec.hidden = true;
    
 }
 
@@ -103,6 +115,10 @@ backwardFour.onclick = function(){
    backwardFour.hidden = true;
    tekstDwa.hidden = false;
    tekstTrzy.hidden = true;
+   tekstCztery.hidden = true;
+   tekstJeden.hidden = true;
+   tekstPiec.hidden = true;
+   
    
 }
 
@@ -111,6 +127,9 @@ backwardFive.onclick = function(){
    backwardFive.hidden = true;
    tekstJeden.hidden = false;
    tekstDwa.hidden = true;
+   tekstTrzy.hidden = true;
+   tekstCztery.hidden = true;
+   tekstPiec.hidden = true;
    
 }
    
