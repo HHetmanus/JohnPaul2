@@ -1,6 +1,6 @@
 header {
-  /*position: fixed;
-  top:0; */
+  position: fixed;
+  top:0; 
   background-color: #ff0000; 
   width: 95%;
   margin: auto;
