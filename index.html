@@ -15,7 +15,7 @@
     <header >
         <nav class='navigation-bar'>
             <div id="nav">
-                <a class="nav__link active" href="#about">ABOUT</a>
+                <a href="#about">ABOUT</a>
                 <a href="#teachings">TEACHINGS</a>
                 <a href="#quotes">QUOTATIONS</a>
                 <a href="#gallery">GALLERY</a>
@@ -166,29 +166,7 @@
   <div id="caption"></div>
 </div>
 
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-const selector = '.nav__link';
-const elems = Array.from( document.querySelectorAll( selector ) );
-const navigation = document.querySelector( 'nav' );
 
-function makeActive( evt ) {
-  const target = evt.target;
-  
-  if ( !target || !target.matches( selector ) ) {
-    return;
-  }
-  
-  elems.forEach( elem => elem.classList.remove( 'active' ) );
-    
-    evt.target.classList.add( 'active' );
-};
-
-navigation.addEventListener( 'mousedown', makeActive );
-
-} );
- 
-    </script>
     
     
     <script src="app.js"></script>
