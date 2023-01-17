@@ -34,7 +34,7 @@ nav a:hover {
   
 }
 
-nav a:active {
+nav a:target {
     border-bottom: 3px solid #4A4D8F;
 }
 
