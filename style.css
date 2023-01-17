@@ -19,6 +19,10 @@ nav a{
   font-size: 17px;
 }
 
+nav a:hover {
+  color: #4A4D8F;
+}
+
 nav {
     overflow: hidden;
     
