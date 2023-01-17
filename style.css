@@ -21,6 +21,7 @@ nav a{
 
 nav a:hover {
   color: #4A4D8F;
+  transition: 0,5s;
 }
 
 nav {
