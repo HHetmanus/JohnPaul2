@@ -46,9 +46,12 @@ nav {
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
-  
     
-    
+}
+
+.nav__link.active  {
+  border-bottom: 1px solid #ff4b4c;
+ 
 }
 
 #nav {
