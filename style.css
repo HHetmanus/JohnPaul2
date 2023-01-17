@@ -84,9 +84,11 @@ header img {
 }
 
 #main {
+    
     width: 90%;
     margin: auto;
     margin-top: 30px; 
+    padding: 15px;
     background-color: white;
 }
 
