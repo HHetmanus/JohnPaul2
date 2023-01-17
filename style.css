@@ -49,10 +49,6 @@ nav {
     
 }
 
-.nav__link.active  {
-  border-bottom: 1px solid #ff4b4c;
- 
-}
 
 #nav {
   display: flex;
