@@ -54,6 +54,8 @@ header img {
 .row {
   display: flex;
   justify-content: center;
+  gap: 10px;
+  
   
 }
 
