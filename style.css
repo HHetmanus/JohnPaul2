@@ -51,6 +51,11 @@ header img {
   margin-top: 110px; 
 }
 
+.bigPic {
+  width: 60%;
+  margin: auto;
+}
+
 .row {
  
   display: flex;
