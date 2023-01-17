@@ -64,6 +64,10 @@ header img {
   cursor: pointer; 
 }
 
+.column img:hover {
+  opacity: 1;
+}
+
 #main {
     width: 90%;
     margin: auto;
