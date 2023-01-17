@@ -2,7 +2,6 @@ header {
   overflow: hidden;
   position: fixed;
   top:0; 
-  background-color: #F0F8FF; 
   background-image: linear-gradient(to left, white , #F0F8FF);
   width: 100%;
   max-height: 100px;
