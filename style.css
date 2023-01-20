@@ -85,8 +85,7 @@ header img {
 .column img {
   opacity: 0.8; 
   cursor: pointer; 
-  padding: .5rem;
-  
+  padding: .2rem;
   background-color: #333;
 }
 
