@@ -234,7 +234,7 @@ div.fb-page {
 form {
 	
     border: 1px solid black;
-	width: 15%;
+	width: 17%;
     background-color: #36454f;
 }
 .container {
@@ -248,8 +248,8 @@ form {
 
 input[type=text], input[type=submit] {
   width: 40%;
-  padding: 10px;
-  margin: 8px 0;
+  padding: 7px;
+  margin: 4px 0;
   display: inline-block;
   border: 1px solid #ccc;
   box-sizing: border-box;
