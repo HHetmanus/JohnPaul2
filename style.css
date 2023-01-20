@@ -216,6 +216,69 @@ div.fb-page {
    justify-content: center;
 }
 
+/* Newsletter subsription CSS */
+
+
+
+
+form {
+	
+    border: 1px solid black;
+	width: 30%;
+}
+.container {
+	
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: underline;
+  
+}
+
+input[type=text], input[type=submit] {
+  width: 40%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+input[type=submit] {
+  background-color: ;
+  color: white;
+  border: none;
+  
+}
+#container1 {
+	text-align: left;
+}
+
+#container {
+	display: flex;
+    
+    
+}
+
+input[type=submit] {
+  
+  background-color: #36454f;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+
+/*Footer CSS */
+
+
 #footer {
   
   margin-top: 50px;
