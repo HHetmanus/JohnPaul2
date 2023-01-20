@@ -237,7 +237,8 @@ div.fb-page {
 form {
 	
     border: 1px solid black;
-	width: 17%;
+	width: 450px;
+	min-width: 350px;
     background-color: #36454f;
 }
 .container {
