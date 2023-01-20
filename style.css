@@ -216,21 +216,23 @@ div.fb-page {
    justify-content: center;
 }
 
+
+
 /* Newsletter subsription CSS */
-
-
 
 
 form {
 	
     border: 1px solid black;
 	width: 30%;
+    background-color: #36454f;
 }
 .container {
 	
   font-size: 16px;
   font-weight: 500;
   text-decoration: underline;
+  color: white;
   
 }
 
@@ -248,9 +250,10 @@ input[type=checkbox] {
 }
 
 input[type=submit] {
-  background-color: ;
-  color: white;
+  
   border: none;
+  background-color: #F0F8FF;
+  color: black;
   
 }
 #container1 {
@@ -263,12 +266,7 @@ input[type=submit] {
     
 }
 
-input[type=submit] {
-  
-  background-color: #36454f;
-  color: white;
-  border: none;
-}
+
 
 input[type=submit]:hover {
   opacity: 0.8;
@@ -276,7 +274,10 @@ input[type=submit]:hover {
 }
 
 
+
 /*Footer CSS */
+
+
 
 
 #footer {
