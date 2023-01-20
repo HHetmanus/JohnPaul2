@@ -209,8 +209,8 @@ button {
 
 div.fb-page {
   
-  margin-left: 50px;
-  
+  margin: auto;
+  margin-top: 50px;
 }
 
 #footer {
