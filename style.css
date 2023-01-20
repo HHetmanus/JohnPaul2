@@ -236,10 +236,11 @@ div.fb-page {
 
 form {
 	
-    border: 1px solid black;
-	width: 450px;
-	min-width: 350px;
+    
+	width: 350px;
+	min-width: 300px;
     background-color: #36454f;
+    
 }
 .container {
 	
@@ -248,20 +249,17 @@ form {
   color: white;
   text-align: center;
   
+  
 }
 
 input[type=text], input[type=submit] {
-  width: 40%;
-  padding: 7px;
-  margin: 4px 0;
-  display: inline-block;
+  width: 45%;
+  
+ 
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
 
-input[type=checkbox] {
-  margin-top: 16px;
-}
 
 input[type=submit] {
   
@@ -272,11 +270,13 @@ input[type=submit] {
 }
 .container1 {
 	text-align: center;
+    padding: 10px 0px;
 }
 
 #container {
 	
     text-align: center;
+    padding-bottom: 5px;
     
     
 }
@@ -287,7 +287,6 @@ input[type=submit]:hover {
   opacity: 0.8;
   cursor: pointer;
 }
-
 /*Footer CSS */
 
 
