@@ -207,6 +207,10 @@ button {
    all: unset;
 }
 
+.fb {
+  margin-top: 50px;
+  text-align: center;
+}
 div.fb-page {
    display: flex;
    justify-content: center;
