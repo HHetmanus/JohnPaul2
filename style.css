@@ -210,6 +210,7 @@ button {
 .fb-page {
   position: fixed;
   right: 10%;
+  padding-bottom: 70px;
 }
 
 #footer {
