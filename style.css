@@ -222,10 +222,12 @@ div.fb-page {
 
 
 #bottom {
+	
+   margin-top: 3rem;	
    display: flex;
    justify-content: center;
    align-items: center;
-	gap: 120px;
+   gap: 120px;
 
 }
 
