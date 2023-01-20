@@ -208,8 +208,8 @@ button {
 }
 
 div.fb-page {
-  position: fixed;
-  right: 5%;
+  float: right;
+  margin: right: 100px;
   padding-bottom: 70px;
 }
 
