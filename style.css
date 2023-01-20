@@ -214,6 +214,8 @@ div.fb-page {
 }
 
 #footer {
+  
+  margin-top: 80px
   display: flex;
   justify-content: center;
   align-items: flex-end;
