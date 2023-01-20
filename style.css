@@ -208,9 +208,8 @@ button {
 }
 
 div.fb-page {
-  
-  margin: auto;
-  margin-top: 50px;
+   display: flex;
+   justify-content: center;
 }
 
 #footer {
