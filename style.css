@@ -207,9 +207,9 @@ button {
    all: unset;
 }
 
-.fb-page {
+div.fb-page {
   position: fixed;
-  
+  right: 5%;
   padding-bottom: 70px;
 }
 
