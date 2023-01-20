@@ -229,10 +229,11 @@ form {
 }
 .container {
 	
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 500;
   text-decoration: underline;
   color: white;
+  text-align: center;
   
 }
 
@@ -256,12 +257,13 @@ input[type=submit] {
   color: black;
   
 }
-#container1 {
-	text-align: left;
+.container1 {
+	text-align: center;
 }
 
 #container {
-	display: flex;
+	
+    text-align: center;
     
     
 }
@@ -272,7 +274,6 @@ input[type=submit]:hover {
   opacity: 0.8;
   cursor: pointer;
 }
-
 
 
 /*Footer CSS */
