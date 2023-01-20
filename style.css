@@ -207,6 +207,11 @@ button {
    all: unset;
 }
 
+.fb-page {
+  position: fixed;
+  right: 10%;
+}
+
 #footer {
   display: flex;
   justify-content: center;
