@@ -264,10 +264,11 @@ input[type=text], input[type=submit] {
 button[type=submit] {
   
   margin: 5px; 
+  border-radius: 3px;
   border: 1px solid black;
-  background-color: grey;
+  background-color: #f0f0f0;
   color: black;
-  padding: 3px;
+  padding: 3px 8px;
   
 }
 .container1 {
