@@ -261,7 +261,7 @@ input[type=text], input[type=submit] {
 }
 
 
-input[type=submit] {
+button[type=submit] {
   
   border: none;
   background-color: #F0F8FF;
@@ -270,7 +270,7 @@ input[type=submit] {
 }
 .container1 {
 	text-align: center;
-    padding: 10px 0px;
+    	padding: 10px 0px;
 }
 
 #container {
@@ -283,7 +283,7 @@ input[type=submit] {
 
 
 
-input[type=submit]:hover {
+button[type=submit]:hover {
   opacity: 0.8;
   cursor: pointer;
 }
