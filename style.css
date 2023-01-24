@@ -261,13 +261,15 @@ input[type=text], input[type=submit] {
 }
 
 
-/*button[type=submit] {
+button[type=submit] {
   
-  border: none;
-  background-color: #F0F8FF;
+  margin: 5px; 
+  border: 1px solid black;
+  background-color: grey;
   color: black;
+  padding: 3px;
   
-}*/
+}
 .container1 {
 	text-align: center;
     	padding: 10px 0px;
