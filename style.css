@@ -396,12 +396,19 @@ button[type=submit]:hover {
     width: 100%;
   }
 
-@media only screen and (max-width: 1000px) { 
+@media only screen and (max-width: 750px) { 
+	
+	.body {
+	
+	width: 90%;
+	margin: auto;
+	
+	}
 	.row {
 		display: block;
 	}
 	.column img {
-		min-width: 250px;
+		min-width: 200px;
 	}
 	
 	}
