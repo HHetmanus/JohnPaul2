@@ -406,7 +406,7 @@ button[type=submit]:hover {
 	}
 	
 	header {
-	
+		width: 95%;
 	}
 	.row {
 		display: block;
