@@ -427,6 +427,10 @@ button[type=submit]:hover {
 	
 	}
 	
+	.text {
+		text-align: -webkit-center;
+	}
+	
 	.img {
     
     margin: auto;
