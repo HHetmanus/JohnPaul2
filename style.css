@@ -421,5 +421,10 @@ button[type=submit]:hover {
 		min-width: 200px;
 	}
 	
+	.about {
+		display: grid;
+	
+	}
+	
 	}
 
