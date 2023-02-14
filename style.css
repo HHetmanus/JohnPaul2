@@ -454,6 +454,10 @@ button[type=submit]:hover {
     
 }
 	
+	.navigation-bar img {
+		display: none;
+	}
+	
 	#footer {
 		gap: 8px;
 		font-size: small;	
