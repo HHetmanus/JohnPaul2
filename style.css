@@ -446,9 +446,12 @@ button[type=submit]:hover {
 	
 	}
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 500px) {
 	
-
+header {
+   
+    min-height: 230px;
+}
 #nav {
     display: grid;
     
