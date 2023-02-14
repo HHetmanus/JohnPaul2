@@ -430,13 +430,18 @@ button[type=submit]:hover {
 	
 	.img {
     
-    margin: auto;
-    text-align: center;
-	
-	}
-#bottom {
-	display: grid;	
-	}
+	    margin: auto;
+	    text-align: center;
+
+		}
+	#bottom {
+		display: grid;	
+		}
+
+	#footer {
+		gap: 8px;
+		font-size: small;	
+		}
 	
 	}
 
