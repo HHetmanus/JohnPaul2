@@ -406,7 +406,7 @@ button[type=submit]:hover {
 	}
 	.row {
 		display: block;
-		Text-align: center;
+		text-align: center;
 	}
 	.column img {
 		min-width: 200px;
