@@ -442,10 +442,19 @@ button[type=submit]:hover {
 		display: grid;	
 		}
 
+	
+	
+	}
+
+@media only screen and (max-width: 450px) {
 	#footer {
 		gap: 8px;
 		font-size: small;	
 		}
+	#notable {
+   
+    		font-size: 1.1rem;
+		}
+	
 	
 	}
-
