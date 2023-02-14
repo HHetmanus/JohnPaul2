@@ -400,6 +400,9 @@ button[type=submit]:hover {
 	.row {
 		display: block;
 	}
+	.column img {
+		min-width: 250px;
+	}
 	
 	}
 
