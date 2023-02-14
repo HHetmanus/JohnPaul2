@@ -410,7 +410,8 @@ button[type=submit]:hover {
 	}
 	
 	nav a {
-		padding: 0.9rem 0.5rem;
+		padding: 0.9rem 0.4rem;
+		font-size: 15px;
 	
 	}
 	.row {
