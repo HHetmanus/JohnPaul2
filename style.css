@@ -451,6 +451,7 @@ button[type=submit]:hover {
 header {
    
     min-height: 230px;
+    position: absolute;
 }
 #nav {
     display: grid;
