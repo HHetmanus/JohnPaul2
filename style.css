@@ -408,6 +408,11 @@ button[type=submit]:hover {
 	header {
 		width: 95%;
 	}
+	
+	nav a {
+		padding: 0.9rem 0.5rem;
+	
+	}
 	.row {
 		display: block;
 		text-align: center;
