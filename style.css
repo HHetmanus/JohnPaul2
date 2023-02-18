@@ -519,4 +519,10 @@ button[type=submit]:hover {
 	.fa-quote-left:before {
 		display: none;
 	}
+	form {
+    display: grid;
+    grid-template-rows: 1fr 1fr 3fr;
+    min-width: 300px;
+    /* background-color: white; */
+}
 }
