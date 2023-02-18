@@ -492,11 +492,11 @@ header {
 	}
 	
 	ul li {
-		    text-indent: 1em;
-		    word-spacing: 0.3rem;
-		    line-height: 1.4;
-		    text-align: left;
-		    font-size: 1rem;
-		    margin-left: 0;
+	    text-indent: 0.6em;
+	    word-spacing: 0.2rem;
+	    line-height: 1.2;
+	    text-align: left;
+	    font-size: 0.9rem;
+	    margin-left: 0;
 }
 	}
