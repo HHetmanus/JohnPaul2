@@ -463,6 +463,10 @@ header {
     
 }
 	
+	#main {
+		margin-top: 170px;
+	}
+	
 	.navigation-bar img {
 		display: none;
 	}
