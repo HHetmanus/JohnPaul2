@@ -500,7 +500,7 @@ button[type=submit]:hover {
 	    margin-left: 0;
 }
 	
-	.fas fa-backward fa-xl {
+	.fa-backward {
 	    position: fixed;
 	    bottom: 35%;
 	    left: 30%;
