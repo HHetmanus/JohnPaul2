@@ -531,4 +531,8 @@ button[type=submit]:hover {
 	    text-align: center;
 	    color: black;
 }
+	
+	textarea {
+	    width: 80%;
+	}
 }
