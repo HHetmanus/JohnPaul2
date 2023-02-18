@@ -499,4 +499,10 @@ button[type=submit]:hover {
 	    font-size: 0.9rem;
 	    margin-left: 0;
 }
+	
+	.fas fa-backward fa-xl {
+	    position: fixed;
+	    bottom: 35%;
+	    left: 30%;
+	}
 	}
