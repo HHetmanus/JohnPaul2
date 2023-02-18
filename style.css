@@ -284,6 +284,10 @@ button[type=submit] {
     
 }
 
+textarea {
+	width: 80%;
+}
+
 
 
 button[type=submit]:hover {
