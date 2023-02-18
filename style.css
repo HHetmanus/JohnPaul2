@@ -507,4 +507,8 @@ button[type=submit]:hover {
 	#column p {
 		padding: 5px 10px 5px 10px;
 	}
+	
+	.fa-quote-left:before {
+		display: none;
+	}
 }
