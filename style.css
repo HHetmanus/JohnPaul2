@@ -467,6 +467,10 @@ button[type=submit]:hover {
 		margin-top: 210px;
 	}
 	
+	#about {
+    		margin-top: 50px;
+	}
+	
 	.navigation-bar img {
 		display: none;
 	}
