@@ -239,14 +239,14 @@ form {
     
 	width: 350px;
 	min-width: 300px;
-    background-color: #36454f;
+   	background:none;
     
 }
 .container {
 	
   font-size: 16px;
   font-weight: 500;
-  color: white;
+  color: black;
   text-align: center;
   
   
