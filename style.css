@@ -453,18 +453,18 @@ button[type=submit]:hover {
 
 @media only screen and (max-width: 500px) {
 	
-header {
-   
-    min-height: 230px;
-    position: absolute;
-}
-#nav {
-    display: grid;
-    
-}
+	header {
+
+	    min-height: 230px;
+	    position: absolute;
+	}
+	#nav {
+	    display: grid;
+
+	}
 	
 	#main {
-		margin-top: 170px;
+		margin-top: 210px;
 	}
 	
 	.navigation-bar img {
