@@ -523,7 +523,7 @@ button[type=submit]:hover {
     display: grid;
     grid-template-rows: 1fr 1fr 3fr;
     min-width: 300px;
-    /* background-color: white; */
+    background-image: linear-gradient(to right, white , #F0F8FF);
 }
 	.container {
 	    font-size: 0.9rem;
