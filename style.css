@@ -508,6 +508,10 @@ button[type=submit]:hover {
 		padding: 5px 10px 5px 10px;
 	}
 	
+	#column {
+		width: 75%;
+	}
+	
 	.fa-quote-left:before {
 		display: none;
 	}
