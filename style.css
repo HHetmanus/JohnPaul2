@@ -483,6 +483,9 @@ header {
    
     		font-size: 1.1rem;
 		}
+	.text {
+		font-size: 0.9rem;
+	}
 	
 	ul li {
 		    text-indent: 1em;
