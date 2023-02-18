@@ -501,8 +501,5 @@ button[type=submit]:hover {
 }
 	
 	.fa-backward {
-	    position: fixed;
-	    bottom: 35%;
-	    left: 30%;
-	}
+	   
 	}
