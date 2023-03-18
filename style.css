@@ -553,7 +553,7 @@ button[type=submit]:hover {
 	
 	}
 	
-	.appear .active {
+	/*.appear .active {
 		transform: translateY(0px);
 		opacity: 1;
 	}
