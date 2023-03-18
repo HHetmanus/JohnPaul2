@@ -59,7 +59,7 @@
     
     <p class="bigPic">Click on the image to get a bigger picture: </p>
     
-    <section class="row">
+    <section class="row appear">
         <div class="column">
             <img src="images/1.jpg" alt="Nature" style="height:120px"  id="jpg1">
           </div>
@@ -78,7 +78,7 @@
         
     </section>
             
-            <h2 id="teachings">Teachings</h2>
+            <h2 id="teachings" class="appear">Teachings</h2>
         <hr>
                 <h3 id="notable">Notable Apostolic Exhortations of Pope John Paul II include:</h3>
         
@@ -106,7 +106,7 @@
                 
     <p id="quotes"></p>
                 
-            <div class='flex-container'>
+            <div class='flex-container appear'>
                 <div id="back1">
                     <i class="fas fa-backward fa-xl"></i>
                 </div>
@@ -123,7 +123,7 @@
                     <i class="fas fa-backward fa-xl"></i>
                 </div>
                 
-                <div id="column">
+                <div id="column" class="appear">
                     <section id="jeden">
                         <i class="fa-solid fa-quote-left fa-pull-left"></i>
                         <p>Social justice cannot be attained by violence. Violence kills what it intends to create.</p>
@@ -166,7 +166,7 @@
     <hr>
 
     
-    <div id="bottom">
+    <div id="bottom" class="appear">
     
            <!-- <p class="fb">Find us on Facebook:</p> -->
 
@@ -199,7 +199,7 @@
     </div>
         
         
-      <footer id="footer">
+      <footer id="footer" class="appear">
           <p class="line">RSS Feed</p>
           <p class="line">Privacy Settings</p>
           <p id="contact">Cookies Policy</p>
@@ -219,6 +219,30 @@
     
     <script src="JavaScript/app.js"></script>
     <script src="JavaScript/modulo.js"></script>
+    <script type="text/javascript">
+        window.addEventListener('scroll', appear);
+        
+        function appear(){
+            var appears = document.querySelectorAll('.appear');
+            
+            for(var i = 0; i < appears.length; i++) {
+                var windowheight = window.innerHeight;
+                var appeartop = appears[i].getBoundingClientRect().top;
+                var appearpoint = 150;
+                
+                if(appeartop < windowheight - appearpoint) {
+                    appears[i].classList.add('active');
+                }
+                else{
+                    appears[i].classList.remove('active');
+                
+                }
+            }
+            
+            
+        }
+        
+    </script>
     
     
     
