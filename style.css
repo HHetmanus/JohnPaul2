@@ -544,3 +544,16 @@ button[type=submit]:hover {
 	    width: 80%;
 	}
 }
+
+	
+	.appear {
+		position: relative;
+		transform: translateY(150px);
+		opacity: 0;
+	
+	}
+	
+	.appear .active {
+		transform: translateY(0px);
+		opacity: 1;
+	}
