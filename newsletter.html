@@ -29,9 +29,9 @@
             </nav>
         </header> 
       
-      <input type="file" accept="application/pdf" id="upload">
+      <input type="file" id="image_input" accept="application/pdf" >
       
-      <div id="displayFile"></div>
+      <div id="display_image"></div>
       
       
     </main>
@@ -42,14 +42,14 @@
       </footer>  
     
     <script type="text/javascript">
-      const upload = document.querySelector("#upload");
-      var uploaded_file = "";
+      const image_input = document.querySelector("#image_input");
+      var uploaded_image = "";
       
-      upload.addEventListener("change", function() {
+      image_input.addEventListener("change", function() {
         const reader = new FileReader();
         reader.addEventListener("load", () => {
-        uploaded_file = reader.result;
-          document.querySelector("#displayFile").style.backgroundImage = `url(${uploaded_file})`;
+        uploaded_image = reader.result;
+          document.querySelector("#display_image").style.backgroundImage = `url(${uploaded_image})`;
         });
         reader.readAsDataURL(this.files[0]);
       })
