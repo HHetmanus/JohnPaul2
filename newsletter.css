@@ -1,0 +1,14 @@
+#footer 
+  {
+    position: absolute;
+    bottom: 0;
+    width: -webkit-fill-available;
+    /* margin-top: 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;
+    background-color: #36454f;
+    color: white;
+    height-max: 70px;
+}
