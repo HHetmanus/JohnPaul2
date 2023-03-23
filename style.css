@@ -65,7 +65,7 @@ nav {
 	color: #E6C700;
 }
 
-a #news {
+a#news {
     text-decoration: none;
     color: black;
 }
