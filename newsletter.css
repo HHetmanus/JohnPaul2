@@ -21,3 +21,9 @@ body {
 .line {
   padding-right: 5px;
 }
+
+input #upload {
+    position: relative;
+    margin-top: 20%;
+    margin-left: 45%;
+}
