@@ -51,7 +51,7 @@
         uploaded_file = reader.result;
           document.querySelector("#displayFile").style.backgroundImage = `url(${uploaded_file})`;
         });
-        reader.readAsDataURL(this.file[0]);
+        reader.readAsDataURL(this.files[0]);
       })
       
     </script>
