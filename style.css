@@ -62,8 +62,8 @@ nav {
       cursor: pointer;
 }
 
-#news {
-     text-decoration: none;
+.fa-file-lines {
+	color: #E6C700;
 }
 
 
