@@ -294,6 +294,9 @@ button[type=submit] {
   
 }
 .container1 {
+	display: flex;
+    	flex-direction: column;
+   	 gap: 9px;
 	text-align: center;
     	padding: 10px 0px;
 }
