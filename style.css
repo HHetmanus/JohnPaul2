@@ -563,21 +563,33 @@ button[type=submit]:hover {
 	.fa-quote-left:before {
 		display: none;
 	}
+	
+	form.appear.show {
+		display: flex;
+   		 flex-direction: column;
+   		 width: 350px;
+   		 min-width: 300px;
+    		background: #36454f;
+    		border-radius: 20px;
+	}
+	
 	form {
-    display: grid;
-    grid-template-rows: 1fr 1fr 3fr;
-    min-width: 300px;
-    background-image: linear-gradient(to right, white , #F0F8FF);
-}
-	.container {
-	    font-size: 0.9rem;
-	    font-weight: 500;
-	    text-align: center;
-	    color: black;
+    		display: grid;
+    		grid-template-rows: 1fr 1fr 3fr;
+   		 min-width: 300px;
+    		background-image: linear-gradient(to right, white , #F0F8FF);
 }
 	
-	textarea {
-	    width: 80%;
+	
+.container {
+	 font-size: 0.9rem;
+	 font-weight: 500;
+	 text-align: center;
+	 color: black;
+}
+	
+textarea {
+	 width: 80%;
 	}
 }
 	
