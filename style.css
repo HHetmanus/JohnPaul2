@@ -544,6 +544,20 @@ button[type=submit]:hover {
 	    width: 80%;
 	}
 }
+	
+/* classes for js slow loading effect */
+	
+	.appear {
+            transform: translateX(-300%);
+            transition: transform 0.7s ease-out;
+        
+        }
+  
+        
+        .appear.show {
+            transform: translateX(0);
+        
+        }
 
 	
 	
