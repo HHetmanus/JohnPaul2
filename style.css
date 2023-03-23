@@ -65,6 +65,11 @@ nav {
 	color: #E6C700;
 }
 
+a #news {
+    text-decoration: none;
+    color: black;
+}
+
 
 #nav {
   display: flex;
