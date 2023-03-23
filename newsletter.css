@@ -26,4 +26,5 @@ input#upload {
     position: relative;
     margin-top: 10%;
     margin-left: 45%;
+    width: -webkit-fill-available;
 }
