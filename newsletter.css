@@ -22,13 +22,13 @@ body {
   padding-right: 5px;
 }
 
-input#image_input {
+/*input#image_input {
     position: relative;
     margin-top: 10%;
     margin-left: 45%;
     padding-bottom: 5px;
     width: -webkit-fill-available;
-}
+} */
 
 #display_image {
     background-repeat: no-repeat;
