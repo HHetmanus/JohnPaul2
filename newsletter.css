@@ -28,3 +28,13 @@ input#upload {
     margin-left: 45%;
     width: -webkit-fill-available;
 }
+
+#displayFile {
+    
+    border-radius: 20px;
+    box-shadow: 5px 5px lightgray;
+    background-color: white;
+    height: 500px;
+    width: 80%;
+    margin: auto;
+}
