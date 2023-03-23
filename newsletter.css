@@ -22,7 +22,7 @@ body {
   padding-right: 5px;
 }
 
-input#upload {
+input#image_input {
     position: relative;
     margin-top: 10%;
     margin-left: 45%;
@@ -30,7 +30,7 @@ input#upload {
     width: -webkit-fill-available;
 }
 
-#displayFile {
+#display_image {
     
     border-radius: 20px;
     box-shadow: 0px 20px 30px 0px lightgray;
