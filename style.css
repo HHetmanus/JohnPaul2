@@ -62,6 +62,10 @@ nav {
       cursor: pointer;
 }
 
+#news {
+     text-decoration: none;
+}
+
 
 #nav {
   display: flex;
