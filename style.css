@@ -262,7 +262,8 @@ form {
         flex-direction: column;
 	width: 350px;
 	min-width: 300px;
-   	background:none;
+   	background: #36454f;
+        border-radius: 20px;
     
 }
 .container {
