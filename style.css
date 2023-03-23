@@ -258,8 +258,8 @@ div.fb-page {
 }
 
 form {
-	
-    
+	display: flex;
+        flex-direction: column;
 	width: 350px;
 	min-width: 300px;
    	background:none;
