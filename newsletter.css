@@ -22,7 +22,7 @@ body {
   padding-right: 5px;
 }
 
-input #upload {
+input#upload {
     position: relative;
     margin-top: 10%;
     margin-left: 45%;
