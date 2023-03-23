@@ -47,3 +47,7 @@ header {
     min-height: 0px;
     position: absolute;
 }
+
+#footer2 {
+  display: none;
+}
