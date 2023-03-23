@@ -59,6 +59,7 @@ nav {
         
 .newsletter:hover {
       cursor: pointer;
+      transform: scale(1.2);
 }
 
 .fa-file-lines {
