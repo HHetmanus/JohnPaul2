@@ -43,10 +43,12 @@ body {
 }
 
 @media only screen and (max-width: 490px)
-header #header1 {
+ #header1 {
     max-height: 60px;
     position: absolute;
     padding-top: 10px;
+   background-color: white;
+   color: black;
 }
 
 #footer2 {
