@@ -19,7 +19,7 @@ body {
 
 #footer2
   {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: -webkit-fill-available;
     /* margin-top: 50px; */
