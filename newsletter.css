@@ -58,7 +58,7 @@ body {
 
 @media only screen and (max-width: 490px){
  #header1 {
-    max-height: 40px;
+    max-height: 65px;
     position: absolute;
     padding-top: 10px;
     background-color: white;
