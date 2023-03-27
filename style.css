@@ -114,11 +114,6 @@ header img {
      transition: 0.4s;
 }
 
-#arrowUp:hover + #goUp {
-	display: block;
-	
-}
-
 
 
 #goUp {
