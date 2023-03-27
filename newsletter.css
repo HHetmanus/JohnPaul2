@@ -65,6 +65,14 @@ body {
     
 }
 
+a {
+    text-decoration: none;
+    font-size: x-small;
+    font-family: emoji;
+    color: currentColor;
+    font-weight: 600;
+}
+
 img {
   transform: scale(0.8);
 }
