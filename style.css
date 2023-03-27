@@ -105,7 +105,14 @@ header img {
     top: 80%;
     right: 0%;
     z-index: 3;
+    transition: 0.4s;
 }
+
+#arrowUp:hover {
+     transform: scale(1.2);
+     transition: 0.4s;
+}
+
 .row {
  
   display: flex;
