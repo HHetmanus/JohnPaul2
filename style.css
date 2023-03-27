@@ -116,6 +116,11 @@ header img {
 
 #arrowUp:hover + #goUp {
 	display: block;
+	 background-color: white;
+    	position: fixed;
+   	 top: 85.5%;
+   	 right: 0;
+    	font-size: small;
 }
 
 
