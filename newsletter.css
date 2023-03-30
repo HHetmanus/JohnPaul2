@@ -107,8 +107,8 @@ img {
 }
   
 #display_image:hover {
-    transform: scale(1.1);
-    overflow-x: scroll;
+    transform: scale(1);
+    
   }
   
 #download {
