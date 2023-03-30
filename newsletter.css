@@ -96,7 +96,9 @@ img {
   
 #download {
     margin-top: 20px;
+    display: grid;
     margin-left: 10%;
+    gap: 3px;
 }
   .grid {
     display: inline-flex;
