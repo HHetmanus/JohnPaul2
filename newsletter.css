@@ -46,10 +46,14 @@ body {
     width: 70%;
     margin-left: 10%;
     margin-top: 85px;
+    transform: 2s;
 }
 
 #display_image:hover {
     transform: scale(1.5);
+    cursor: zoom-in;
+    transform: 2s;
+    z-index: 2;
   
 
 }
