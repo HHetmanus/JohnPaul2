@@ -94,6 +94,10 @@ img {
     margin-bottom: -30px;
 }
   
+#download {
+    margin-top: 20px;
+    margin-left: 10%;
+}
   .grid {
     display: inline-flex;
     flex-direction: column;
