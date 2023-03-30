@@ -49,6 +49,8 @@ body {
 }
 
 #download {
+  display: grid;
+  row-gap: 3px;
   margin-top: -30px;
   margin-right: 10%;
 }
