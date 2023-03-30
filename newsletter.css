@@ -48,6 +48,12 @@ body {
     margin-top: 85px;
 }
 
+#display_image:hover {
+    transform: scale(1.5);
+  
+
+}
+
 #download {
   display: grid;
   row-gap: 3px;
